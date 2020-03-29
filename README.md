@@ -11,9 +11,13 @@ npm install
 ```
 
 ## Usage
-
+# Push Files
 ```bash
-npm start {filename} {urlname}
+npm run push {filename} {urlname}
+```
+# Pull Files
+```bash
+npm run pull {filename} {urlname}
 ```
 
 ## Contributing
